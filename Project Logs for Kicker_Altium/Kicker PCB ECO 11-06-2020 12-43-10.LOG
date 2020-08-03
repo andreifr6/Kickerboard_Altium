@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=T1-B
+Change Component Description : Designator=C5 Old Description=Capacitor 10 nF 50 VDC 0603 New Description=Capacitor 10 nF 50 VDC 0603 | Murata GRM188R71H103KA01D (Capacitor 10 nF 50 VDC 0603 Ceramic Capacitors).
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=T1-B
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 TC4426AEOA713
+Added Member To Class: ClassName=Sheet2 Member=Component U1 MC34063EBD-TR

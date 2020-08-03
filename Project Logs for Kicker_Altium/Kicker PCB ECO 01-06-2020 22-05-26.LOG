@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=X2-2 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=X2-2 Pin=D3-1
+Added Pin To Net: NetName=X2-1 Pin=D3-2
+Added Pin To Net: NetName=X2-2 Pin=D4-1
+Added Pin To Net: NetName=X2-4 Pin=D4-2
+Added Pin To Net: NetName=VCC Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD2_2 Pin=T1-B
+Added Pin To Net: NetName=GND Pin=T1-C
+Added Pin To Net: NetName=NetD2_1 Pin=T1-E
