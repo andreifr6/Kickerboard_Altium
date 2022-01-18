@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetL1_2 Pin=U1-1
+Change Component Description : Designator=C5 Old Description=Capacitor 10 nF 50 VDC 0603 New Description=Capacitor 10 nF 50 VDC 0603 | Murata GRM188R71H103KA01D (Capacitor 10 nF 50 VDC 0603 Ceramic Capacitors).
+Added Component: Designator=R17(Resistor_0805)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KCRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "603-RC0805FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RC0805FR-071KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U1-1
+Added Net: Name=NetR17_1
+Added Member To Class: ClassName=Sheet2 Member=Component R17 1k

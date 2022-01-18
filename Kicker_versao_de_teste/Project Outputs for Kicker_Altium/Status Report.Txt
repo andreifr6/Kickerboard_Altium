@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Kicker_Altium.PrjPcb]
+   Generated File[Kicker.GTO]
+   Generated File[Kicker.GTP]
+   Generated File[Kicker.GTS]
+   Generated File[Kicker.GTL]
+   Generated File[Kicker.GBL]
+   Generated File[Kicker.GBS]
+   Generated File[Kicker.GBP]
+   Generated File[Kicker.GBO]
+   Generated File[Kicker.GM1]
+   Generated File[Kicker.GM29]
+   Generated File[Kicker.GKO]
+   Generated File[Kicker.1]
+   Generated File[Kicker.GML]
+   Generated File[Kicker.RUL]
+   Generated File[Kicker.EXTREP]
+   Generated File[Kicker.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 14:42:03 On 18/01/2022
