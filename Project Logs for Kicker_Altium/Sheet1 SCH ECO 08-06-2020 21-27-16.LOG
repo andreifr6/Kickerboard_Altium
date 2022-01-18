@@ -1,8 +1,0 @@
-Change Pin Designator/Name:  Old Designator=U1-4 Old Name=GND New Designator =DRC New Name=8
-Change Pin Designator/Name:  Old Designator=U1-3 Old Name=TC New Designator =Ipk New Name=7
-Change Pin Designator/Name:  Old Designator=U1-5 Old Name=CII New Designator =GND New Name=4
-Change Pin Designator/Name:  Old Designator=U1-2 Old Name=SWE New Designator =Vcc New Name=6
-Change Pin Designator/Name:  Old Designator=U1-1 Old Name=SWC New Designator =SWE New Name=2
-Change Pin Designator/Name:  Old Designator=U1-7 Old Name=Ipk New Designator =CII New Name=5
-Change Pin Designator/Name:  Old Designator=U1-8 Old Name=DRC New Designator =SWC New Name=1
-Change Pin Designator/Name:  Old Designator=U1-6 Old Name=Vcc New Designator =TC New Name=3
